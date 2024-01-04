@@ -22,4 +22,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original.svg" alt="mysql" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mherenow" alt="vishal-bisht" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mherenow&theme=dark" alt="mherenow" /></p>
