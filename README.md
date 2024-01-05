@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, I am Venkatesh</h1>
+# Hello, I am Venkatesh
 <h3 align="center">A student with high ambitions</h3>
 
 
