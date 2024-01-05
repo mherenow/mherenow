@@ -1,7 +1,7 @@
 
 
 # Hello, I am Venkatesh
-<h3 align="center">A student with high ambitions</h3>
+### A student with high ambitions
 
 
 
