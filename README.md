@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning *C, Python, C#, MySQL, AI/ML, DSA and Unity*
+- 🌱 I’m currently learning *C, AI/ML, DSA, Kotlin and Android Studio*
 
 - 📫 How to reach me *venkatesh09072003@gmail.com*
 
