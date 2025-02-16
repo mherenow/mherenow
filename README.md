@@ -1,25 +1,24 @@
+# 👋 Hey there! I'm Venkatesh  
+
+🚀 **Engineering Student | AI/ML Enthusiast**  
+
+### 🔹 About Me  
+- 🎓 Pursuing **Computer Science and Engineering**  
+- 🤖 Passionate about **Tech**  
+- 📱 Focusing on **AI & DSA** now  
+- 🎮 Experience with **Android App Development**  
+- 🛠️ Languages: **Python, Java, C, Kotlin**  
+
+### 🔥 What I'm Working On  
+- 💡 Exploring **AI/ML models for real-world applications**  
+- 🏆 Solving **DSA problems** to sharpen problem-solving skills  
+
+### 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mherenow&layout=compact&theme=highcontrast)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mherenow&show_icons=true&theme=highcontrast)  
+
+### 📬 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-118b09259/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/847483440383393827)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mherenow)  
 
 
-# Hello, I am Venkatesh
-### A student with high ambitions
-
-
-
-
-- 🌱 I’m currently learning *C, AI/ML, DSA, Kotlin and Android Studio*
-
-- 📫 How to reach me *venkatesh09072003@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/venka69420" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" alt="venka69420" height="40" width="45" /></a>
-<a href="https://www.linkedin.com/in/venkatesh-118b09259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="Venkatesh ." height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original.svg" alt="mysql" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mherenow&theme=dark" alt="mherenow" /></p>
+![Visitor Count](https://komarev.com/ghpvc/?username=mherenow&color=red)
